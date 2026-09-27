@@ -1,0 +1,28 @@
+
+========================================
+STUDENT PERFORMANCE ANALYSIS REPORT
+========================================
+
+Total Students         : 10
+Average Marks          : 81.10
+Highest Marks          : 96
+Lowest Marks           : 61
+Average Attendance     : 86.50%
+Top Performing Student : Kiran
+
+Department-wise Average Marks
+----------------------------------------
+Department
+CSE    92.75
+ECE    73.75
+EEE    72.50
+
+========================================
+REST API INFORMATION
+========================================
+
+API Status Code        : 200
+
+========================================
+End of Report
+========================================
